@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environment variables (password, API key vs.)
+.env
+*.env
+
+# IDE dosyaları
+.idea/
