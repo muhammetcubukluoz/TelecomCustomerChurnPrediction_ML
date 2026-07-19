@@ -2,7 +2,7 @@
     "best_model_key": "CatBoost",
     "best_model_path": "../models/saved/catboost.joblib",
     "selection_metric": "test_roc_auc",
-    "created_at": "2026-07-16T17:48:03",
+    "created_at": "2026-07-18T14:12:13",
     "models": {
         "Logistic Regression": {
             "path": "../models/saved/logistic_regression.joblib",
